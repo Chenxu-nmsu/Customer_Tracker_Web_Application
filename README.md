@@ -1,4 +1,4 @@
-# Create a Customer Tracker Website
+# A Customer Tracker Web Application
 
 This is an academic project. The main idea is to demonstrate how to build a website using Java, Spring MVC, Hibernate, MySQL, TomCat etc.!
 
